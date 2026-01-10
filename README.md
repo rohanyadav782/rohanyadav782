@@ -6,6 +6,7 @@ I focus on applying data-driven thinking to solve problems and continuously impr
 Tech Stack  
 - Python
 - SQL
+- Excel
 - Pandas, NumPy, Matplotlib, Scikit-Learn
 - Machine Learning
 

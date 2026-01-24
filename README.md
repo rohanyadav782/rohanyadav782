@@ -8,7 +8,7 @@ Technical Skills
 - SQL
 - Excel
 - Pandas, NumPy, Matplotlib,Seaborn, Scikit-Learn 
-- Machine Learning
+- Machine Learning 
 
 What I’m Currently Working On
 - Improving machine learning fundamentals  

@@ -16,10 +16,10 @@ What I’m Currently Working On
 - Strengthening problem-solving skills
 
 Projects
+- Automated-Machine-Learning-Classification – An end-to-end automated machine learning classification pipeline in Python.
 - Shadow Fight – An interactive two-player Shadow Fight game developed in Python using Turtle graphics. 
 - Electronic Voting Machine (EVM) – Python-based simulation of an electronic voting system.
 - Mini Twitter Application – A mini social media app demonstrating core backend and user interaction logic.
-- Automated-Machine-Learning-Classification – An end-to-end automated machine learning classification pipeline in Python.
 
 Connect with me  
 LinkedIn — www.linkedin.com/in/rohan-yadav-7bb599367

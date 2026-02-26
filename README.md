@@ -2,7 +2,7 @@ Hi there , I'm Rohan Yadav
 I’m a Data-Science Intern and passionate about building practical ML / data-driven applications.  
 Currently learning/working on: Python, Machine Learning. 
 I focus on applying data-driven thinking to solve problems and continuously improve my technical skills. 
- 
+   
 Technical Skills  
 - Python
 - SQL

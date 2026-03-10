@@ -16,6 +16,7 @@ What I’m Currently Working On:
 - Strengthening problem-solving skills
 
 Projects:
+- Calories Prediction Project - A machine learning–based web application that predicts calorie expenditure using user health and activity parameters.
 - Automated-Machine-Learning-Classification – An end-to-end automated machine learning classification pipeline in Python.
 - Shadow Fight – An interactive two-player Shadow Fight game developed in Python using Turtle graphics. 
 - Electronic Voting Machine (EVM) – Python-based simulation of an electronic voting system.
